@@ -1,0 +1,31 @@
+{
+  "name": "gpa.oo",
+  "version": "1.0.0",
+  "description": "simple object oriented javascript gpa calculator",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admonkey/gpa.oo.git"
+  },
+  "keywords": [
+    "oo",
+    "js",
+    "gpa"
+  ],
+  "author": "Jeff Puckett",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/admonkey/gpa.oo/issues"
+  },
+  "homepage": "https://github.com/admonkey/gpa.oo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  }
+}
